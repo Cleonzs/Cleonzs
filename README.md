@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Cleonzs
-- 👀 I’m interested in coding and gaming.
-- 🌱 I’m currently learning Python and HTML.
-- 💞️ I’m looking to collaborate on any learning project. 
-- 📫 How to reach me:
-Email: WorkingCleons@gmail.com
-Instagram: Jojolionz
+# emily/cleons || she/they || 17 yrs old
+# competent python and js programmer 
+# IT and cyber security focus 
 
