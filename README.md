@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1500&color=88C0D0&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Cleons!" alt="Hi, I'm Cleons!" />
@@ -7,7 +6,6 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/-About%20Me-2E3440?style=flat-square" />
 
 - ⛏️ Building **Minecraft servers** (MellowCraft)
 - 🤖 Developing **WzwUpdates**, a website to release all the latest WzW drops
@@ -15,7 +13,6 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/-Tech%20Stack-2E3440?style=flat-square" />
 
 <div align="center">
 
@@ -31,8 +28,6 @@
 </div>
 
 ---
-
-### <img src="https://img.shields.io/badge/-Stats-2E3440?style=flat-square" />
 
 <div align="center">
 
