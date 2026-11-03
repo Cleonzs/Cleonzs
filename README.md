@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1500&color=88C0D0&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Cleons!" alt="Hi, I'm Cleons!" />
@@ -7,11 +6,13 @@
 
 ---
 
+
 - ⛏️ Building **Minecraft servers** (MellowCraft)
 - 🤖 Developing **WzwUpdates**, a website to release all the latest WzW drops
 - 🐧 Unironic Linux user
 
 ---
+
 
 <div align="center">
 
@@ -30,21 +31,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleonsz&amp;layout=compact&amp;theme=nord&amp;hide_border=true&amp;langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleonsz&layout=compact&theme=nord&hide_border=true&langs_count=6" />
 
 <img src="https://streak-stats.demolab.com?user=Cleonsz&theme=nord&hide_border=true" />
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Discord-3B4252?style=for-the-badge&logo=discord&logoColor=81A1C1" />
-<img src="https://img.shields.io/badge/play.mellowcraft.org-3B4252?style=for-the-badge&logo=minecraft&logoColor=A3BE8C" />
-
-</div>
-```
 
 <div align="center">
 
