@@ -39,13 +39,6 @@
 
 <img src="https://img.shields.io/badge/Discord-espadons-3B4252?style=for-the-badge&logo=discord&logoColor=88C0D0&labelColor=3B4252" />
 <a href="https://play.mellowcraft.org"><img src="https://img.shields.io/badge/play.mellowcraft.org-3B4252?style=for-the-badge" /></a>
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Discord-3B4252?style=for-the-badge&logo=discord&logoColor=81A1C1" />
-<img src="https://img.shields.io/badge/play.mellowcraft.org-3B4252?style=for-the-badge&logo=minecraft&logoColor=A3BE8C" />
-
+<a href="https://wzwupdates.com"><img src="https://img.shields.io/badge/wzwupdates.com-3B4252?style=for-the-badge" /></a>
 
 </div>
