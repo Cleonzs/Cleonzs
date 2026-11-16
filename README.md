@@ -6,13 +6,11 @@
 
 ---
 
-
 - ⛏️ Building **Minecraft servers** (MellowCraft)
 - 🤖 Developing **WzwUpdates**, a website to release all the latest WzW drops
 - 🐧 Unironic Linux user
 
 ---
-
 
 <div align="center">
 
@@ -31,13 +29,18 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleonsz&layout=compact&theme=nord&hide_border=true&langs_count=6" />
-
 <img src="https://streak-stats.demolab.com?user=Cleonsz&theme=nord&hide_border=true" />
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Discord-espadons-3B4252?style=for-the-badge&logo=discord&logoColor=88C0D0&labelColor=3B4252" />
+<a href="https://play.mellowcraft.org"><img src="https://img.shields.io/badge/play.mellowcraft.org-3B4252?style=for-the-badge" /></a>
+
+</div>
 
 <div align="center">
 
